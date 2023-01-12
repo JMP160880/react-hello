@@ -8,7 +8,7 @@ const Home = (props) => {
 	return (
 <div className="contador">
 	<div className="clock">
-	
+	<i class="fa fa-clock"></i>
 	</div>
 	<div className="six">{props.sextoDigito %10}</div>
 	<div className="five">{props.quintoDigito %10}</div>
