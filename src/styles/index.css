@@ -1,6 +1,7 @@
 .contador {
     text-align: center;
     background: black;
+    
 }
 .contador div {
     display: inline-block;
